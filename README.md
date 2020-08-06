@@ -9,7 +9,7 @@ The goal is to classify bacteria type and create segmentation mask for image. Ov
 Dataset is organized into 2 folders (train, test) and contains total 261 train and 107 test images of bacteria microcolonies made by microscope.
 All images have 512x640 size. Also, train folder contains json files needed for extracting bacteria type and drawing segmentation mask.
 
-![cover](images/bacteria_images.png)
+![cover](images/1.png)
 
 ## File Structure
 
